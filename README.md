@@ -1,16 +1,16 @@
 ## 📚 EDUCATION
 
-**Dankook University, South Korea (MAR 2019 - )**
+**Dankook University, South Korea (MAR 2019 - )** 🇰🇷
 
 - Bachelor in Mobile System Engineering (GPA : 3.93/4.5)
 - Studies: Mobile Communication, Machine Learning, Data Science, Mathematics, Digital Circuit, Robotics, Programming, Information security, Mobile Programming, Architecture
 
-**University at Albany - State University of New York, NY, USA (DEC 2021 - JAN 2022)**
+**University at Albany - State University of New York, NY, USA (DEC 2021 - JAN 2022)** 🇺🇸
 
 - Short-term training
 -  Studies: Cybersecurity, Machine Learning, Data Mining
 
-**VSB - Technical University of Ostrava, Czech (FEB 2022 - JUL 2022)**
+**VSB - Technical University of Ostrava, Czech (FEB 2022 - JUL 2022)** 🇨🇿
 
 - Exchange student
 - Studies: Electrical Engineering and Computer Science
