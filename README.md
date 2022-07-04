@@ -32,7 +32,7 @@
 ## 💻 [SKILLS]
 
 - Mobile Communication, Programming, Probability and Statistics, Machine Learning, Data Analyzing, Mobile Programming
-- Programming Language : Python,C/C++, JAVA, R, Racket, Kotlin
+- Programming Language : Python,C/C++, JAVA, R, Racket, Kotlin, Matlab
 - Programs: Jupyter Notebook, MacOS Terminer, Google Colab, MS Word, Powerpoint, Excel, Adobe Photoshop, R Studio, Visual Studio, IDLE, Eclipse, Linux, Android Studio
 
 ## 💵 [WORK EXPERIENCE]
