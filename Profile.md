@@ -3,7 +3,7 @@
 **Dankook University, South Korea (MAR 2019 - )** 🇰🇷
 
 - Bachelor in Mobile System Engineering (GPA : 3.93/4.5)
-- Studies: Mobile Communication, Machine Learning, Data Science, Mathematics, Digital Circuit, Robotics, Programming, Information security, Mobile Programming, Architecture
+- Studies: Machine Learning, Data Science, Network, Mathematics, Digital Circuit, Robotics, Programming, Information security, Mobile Programming, Architecture
 
 **University at Albany - State University of New York, NY, USA (DEC 2021 - JAN 2022)** 🇺🇸
 
