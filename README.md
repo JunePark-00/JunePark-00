@@ -45,7 +45,7 @@
 
   • Consulting for Architectural design
 **- Children Care Service (AUG 2019 - DEC 2019) 
-**- Academic Consulting (DEC 2018 - FEB 2019)**
+**- Academic Consulting (DEC 2018 - FEB 2019)
 
   • Consulting for college entrance
   
