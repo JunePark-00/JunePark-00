@@ -2,8 +2,8 @@
 
 **Dankook University, South Korea (MAR 2019 - )** 🇰🇷
 
-- Bachelor in Mobile System Engineering (GPA : 3.93/4.5)
-- Studies: Machine Learning, Data Science, Network, Mathematics, Digital Circuit, Robotics, Programming, Information security, Mobile Programming, Architecture
+- Bachelor in Mobile System Engineering (GPA : 3.89/4.5)
+- Studies: Machine Learning, Data Science, Network, Mathematics, Digital Circuit, Robotics, Programming, Information security, Mobile Programming, Architecture, OS, DB
 
 **University at Albany - State University of New York, NY, USA (DEC 2021 - JAN 2022)** 🇺🇸
 
@@ -37,18 +37,21 @@
 
 ## 💵 [WORK EXPERIENCE]
 
+- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (DEC 2022 - )**
+
+  • 
+- Student Council (FEB 2021 - DEC 2021)
+
+  • Video promotion manager
+- Architecture Consulting (JUL 2019)
+
+  • Consulting for Architectural design
+- Children Care Service (AUG 2019 - DEC 2019) 
 - Academic Consulting (DEC 2018 - FEB 2019)**
 
   • Consulting for college entrance
   
   • High School Mathematics and English Teaching
-- Architecture Consulting (JUL 2019)
-
-  • Consulting for Architectural design
-- Children Care Service (AUG 2019 - DEC 2019) 
-- Student Council (FEB 2021 - DEC 2021)
-
-  • Video promotion manager
 
 ## 🌐 [LANGUAGES]
 
