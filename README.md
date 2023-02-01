@@ -37,15 +37,15 @@
 
 ## 💵 [WORK EXPERIENCE]
 
-**- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (DEC 2022 - )
-**- Student Council (FEB 2021 - DEC 2021)
+- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (DEC 2022 - )
+- Student Council (FEB 2021 - DEC 2021)
 
   • Video promotion manager
-**- Architecture Consulting (JUL 2019)
+- Architecture Consulting (JUL 2019)
 
   • Consulting for Architectural design
-**- Children Care Service (AUG 2019 - DEC 2019) 
-**- Academic Consulting (DEC 2018 - FEB 2019)
+- Children Care Service (AUG 2019 - DEC 2019) 
+- Academic Consulting (DEC 2018 - FEB 2019)
 
   • Consulting for college entrance
   
