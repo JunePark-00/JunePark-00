@@ -25,14 +25,14 @@
 - Machine Learning 
 - Data Science
 
-## 📃 [MAJOR RELATED EXPERIENCE]
+## 📃 [PROJECT/COMPETITION]
 
-- Project on Restaurant Reservation Service
-- Project on Pipeline, Cache in MIPS assembly by using C
-- BigContest: “Big data analysis”
-- TensorFlow Developer Certificate
-- 2021 EduAI Idea Competition
-- Project on Machine Learning Application
+- Project on Restaurant Reservation Service (Backend) -2020
+- TensorFlow Developer Certificate -2021
+- 2021 EduAI Idea Competition -2021
+- Project on Machine Learning Application - 2021
+- Seoul City Bus Data Analysis Project - 2023
+- Seoul Fine Dust Concentration Prediction Project - 2023
 
 ## 💻 [SKILLS]
 
