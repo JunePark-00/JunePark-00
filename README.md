@@ -1,6 +1,6 @@
 ## 📚 EDUCATION
 
-**Dankook University, South Korea (MAR 2019 - )** 🇰🇷
+**Dankook University, South Korea (MAR 2019 - FEB 2023)** 🇰🇷
 
 - Bachelor in Mobile System Engineering (GPA : 3.89/4.5)
 - Studies: Machine Learning, Data Science, Network, Mathematics, Digital Circuit, Robotics, Programming, Information security, Mobile Programming, Architecture, OS, DB
@@ -14,6 +14,11 @@
 
 - Exchange student
 - Studies: Electrical Engineering and Computer Science
+
+**KT AIVLE SCHOOL - South Korea (JAN 2023 - )** 🇰🇷
+
+- BootCamp
+- KT
 
 ## 💡 ACADEMIC INTEREST
 
@@ -54,7 +59,8 @@
 ## 🌐 [LANGUAGES]
 
 - Korean : Native Speaker 
-- English : IELTS 6.0
+- English : IELTS 6.0, OPIc IM1
+
 
 
 
