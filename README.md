@@ -33,11 +33,13 @@
 - Project on Machine Learning Application - 2021
 - Seoul City Bus Data Analysis Project - 2023
 - Seoul Fine Dust Concentration Prediction Project - 2023
+- Air Compressor Anomaly Detection Competition (4th/353) - 2023
 
 ## 💻 [SKILLS]
 
 - Mobile Communication, Programming, Probability and Statistics, Machine Learning, Data Analyzing, Mobile Programming
-- Programming Language : Python,C/C++, JAVA, R, Racket, Kotlin, Matlab
+- Programming Language : Python,C/C++, JAVA, R, Racket, Kotlin, Matlab, JS
+- Markup Language: HTML, CSS
 - Programs: Jupyter Notebook, MacOS Terminer, Google Colab, MS Word, Powerpoint, Excel, Adobe Photoshop, R Studio, Visual Studio, IDLE, Eclipse, Linux, Android Studio
 
 ## 💵 [WORK EXPERIENCE]
@@ -59,7 +61,7 @@
 ## 🌐 [LANGUAGES]
 
 - Korean : Native Speaker 
-- English : IELTS 6.0, OPIc IM1
+- English : IELTS 6.0, TOEIC 700, OPIc IM1
 
 
 
