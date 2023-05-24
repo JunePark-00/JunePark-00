@@ -44,7 +44,9 @@
 
 ## 💵 [WORK EXPERIENCE]
 
-- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (DEC 2022 - )
+- NIT Service (JUNE 2023 - )
+
+- C language/Entry part-time instructor, JAM Coding, Daechi-dong, Seoul (DEC 2022 - MAR 2023)
 - Student Council (FEB 2021 - DEC 2021)
 
   • Video promotion manager
